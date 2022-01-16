@@ -1,9 +1,9 @@
-# nike-air-mag
+# 3d_Models
 3d obj and textures
 
-THIS IS JUST A FREE REPOSITOPRY
+THIS IS JUST A FREE REPOSITOPRY OF 3D MODEL THAT I DOWNLOADED FOR FREE AT SKETCHFAB.COM
 
-THE 3D MODEL ISN'T MY CREATION
+THESE 3D MODELS AREN'T MY CREATIONS
 
-ALL RIGHT REFERS TO "pandan" (src of his license "nike-air-mag/nike_air_mag gltf/license.txt" ).
+#NIKE MAG - AUTHOR "pandan" (src of his license "nike-air-mag/nike_air_mag gltf/license.txt" ).
 DOWNLOAD LINK "https://sketchfab.com/3d-models/nike-air-mag-15ef47bad0aa4666b459cf78261abce5"
