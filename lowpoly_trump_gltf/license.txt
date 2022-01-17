@@ -1,0 +1,11 @@
+Model Information:
+* title:	LowPoly Trump Free Character
+* source:	https://sketchfab.com/3d-models/lowpoly-trump-free-character-ba7b382c918b40e6b07011da4ff3ebc0
+* author:	Denys Almaral (https://sketchfab.com/denysalmaral)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LowPoly Trump Free Character" (https://sketchfab.com/3d-models/lowpoly-trump-free-character-ba7b382c918b40e6b07011da4ff3ebc0) by Denys Almaral (https://sketchfab.com/denysalmaral) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
